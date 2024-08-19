@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import cat from "./images/images.jpeg";
+import cat from "./images/apple.webp";
 import "./App.css";
 
 function App() {
